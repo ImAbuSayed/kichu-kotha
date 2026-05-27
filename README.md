@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kichu-kotha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Kichu Kotha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kichu-kotha/) |
+| **Get License** | [Obtain a Music License for Kichu Kotha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kichu-kotha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5308fa5d6e911999b242b1c9fb95b52ec0a75e40c1ac9fa16f929b1c11c50477` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
